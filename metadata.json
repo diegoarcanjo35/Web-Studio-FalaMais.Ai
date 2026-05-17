@@ -1,0 +1,8 @@
+{
+  "name": "Diego Arcanjo Web Studio + FalaMais.AI",
+  "description": "Apresentação profissional da parceria entre Diego Arcanjo Web Studio e FalaMais.AI, focada em presença digital e automação com Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
